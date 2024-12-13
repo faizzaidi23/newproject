@@ -6,5 +6,6 @@ int main(){
         int c;
         c=a+b;
         cout<<"The sum of the given two numbers is:"<<c;
+        cout<<"The product of the given two numbers is:"<<a*b;
         return 0;
 }
